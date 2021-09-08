@@ -1,1 +1,2 @@
-# MaquetaMasonrylayout
+- Proyecto para poner en práctica el diseño de masonry layout, popular en sitios como Pinterest.
+- Sólo se ha usado Flexbox para realizar dicho diseño.
